@@ -14513,14 +14513,15 @@
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
         },
         {
-            "author": "ExterminanzHS",
-            "title": "Gecco Discord Autosend",
-            "reference": "https://github.com/ExterminanzHS/Gecco-Discord-Autosend",
+            "author": "GrenKain",
+            "title": "PixelArt Processing Nodes",
+            "id": "gk_pixelart",
+            "reference": "https://github.com/GrenKain/PixelArt-Processing-Nodes-for-ComfyUI",
             "files": [
-                "https://github.com/ExterminanzHS/Gecco-Discord-Autosend"
+                "https://github.com/GrenKain/PixelArt-Processing-Nodes-for-ComfyUI"
             ],
             "install_type": "git-clone",
-            "description": "Custom nodes for ComfyUI to automatically send generated images to Discord channels."
+            "description": "This repository provides custom nodes for ComfyUI that enable pixel art style image processing, including downscaling, upscaling, color quantization, and resolution adjustments."
         }
     ]
 }
